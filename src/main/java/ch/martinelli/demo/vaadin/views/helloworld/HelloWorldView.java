@@ -1,6 +1,6 @@
-package ch.martinelli.demo.views.helloworld;
+package ch.martinelli.demo.vaadin.views.helloworld;
 
-import ch.martinelli.demo.views.MainLayout;
+import ch.martinelli.demo.vaadin.views.MainLayout;
 import com.vaadin.flow.component.Key;
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.notification.Notification;
@@ -9,6 +9,7 @@ import com.vaadin.flow.component.textfield.TextField;
 import com.vaadin.flow.router.PageTitle;
 import com.vaadin.flow.router.Route;
 import com.vaadin.flow.router.RouteAlias;
+
 import javax.annotation.security.PermitAll;
 
 @PageTitle("Hello World")

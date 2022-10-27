@@ -1,4 +1,4 @@
-package ch.martinelli.demo.components.appnav;
+package ch.martinelli.demo.vaadin.components.appnav;
 
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.Tag;
@@ -10,6 +10,7 @@ import com.vaadin.flow.internal.StateTree;
 import com.vaadin.flow.router.RouteConfiguration;
 import com.vaadin.flow.router.Router;
 import com.vaadin.flow.server.VaadinService;
+
 import java.util.Optional;
 
 /**

@@ -1,4 +1,4 @@
-package ch.martinelli.demo;
+package ch.martinelli.demo.vaadin;
 
 import com.vaadin.flow.component.dependency.NpmPackage;
 import com.vaadin.flow.component.page.AppShellConfigurator;
